@@ -10,7 +10,8 @@ body{
 }
 
 nav{
-display: flex;
+  display: flex;
+  padding: 40px;
 }
 
 nav ul{
@@ -20,7 +21,7 @@ nav ul{
 }
 
 .lu{
-    margin-left: 115px;
+    margin-left: auto;
 }
 
 .me{
