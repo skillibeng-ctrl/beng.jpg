@@ -5,13 +5,14 @@ body{
 }
 
 .photo{
-    width: 150px;
+    width: 160px;
     height: fit-content;
+    
 }
 
 nav{
   display: flex;
-  padding: 40px;
+  padding: 10px;
 }
 
 nav ul{
@@ -35,7 +36,7 @@ nav ul{
 }
 
 .cap{
-    font-size: 65px;
+    font-size: 80px;
     color: an;
     text-align: center;
 margin-top: -25px;
